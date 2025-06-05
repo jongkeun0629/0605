@@ -9,7 +9,7 @@ public class Main {
             if(i >= 15){
                 break;
             }
-
+            
             System.out.println(i);
         }
     }
